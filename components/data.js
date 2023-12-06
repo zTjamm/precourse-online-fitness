@@ -54,10 +54,10 @@ let tuesday = {
                     {content: `Fourth approach with 35 kg 12 repetitions`},
                 ],
                 photo: [
-                    {src: `./img/deadlift1.png`},
-                    {src: `./img/deadlift2.png`},
-                    {src: `./img/deadlift3.png`},
-                    {src: `./img/deadlift4.png`},
+                    {src: `./img/Barbell1.png`},
+                    {src: `./img/Barbell2.png`},
+                    {src: `./img/Barbell3.png`},
+                    {src: `./img/Barbell4.png`},
                 ]
             },
         },
@@ -71,10 +71,10 @@ let tuesday = {
                     {content: `Fourth approach 12 repetitions`},
                 ],
                 photo: [
-                    {src: `./img/pullups1.png`},
-                    {src: `./img/pullups2.png`},
-                    {src: `./img/pullups3.png`},
-                    {src: `./img/pullups4.png`},
+                    {src: `./img/Dumbbell1.png`},
+                    {src: `./img/Dumbbell2.png`},
+                    {src: `./img/Dumbbell3.png`},
+                    {src: `./img/Dumbbell4.png`},
                 ]
             },
         }
